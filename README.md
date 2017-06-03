@@ -1,2 +1,16 @@
-# blog-test
-Study project
+blog-test
+
+[Descripción del proyecto]
+
+[Instalación]
+- Requisitos
+- Versión
+- Encargados del proyecto
+
+[Uso]
+
+[Documentación]
+
+[Roadmap]
+
+[Licencia]
